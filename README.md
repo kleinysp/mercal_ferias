@@ -19,6 +19,7 @@ Instruccion para configuración del proyecto.
     Ejecutar las Migraciones
         php artisan migrate
     Si estas en local, para levantar el proyecto seria el siguiente comando
-        php artisan serve
+        php artisan serve en una terminal 
         y
-        npm run dev
+        npm run dev en una terminal diferente
+    
